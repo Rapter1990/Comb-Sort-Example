@@ -48,7 +48,7 @@
     <th>Information</th>
   </tr>
   <tr>
-    <td>QuickSortProcess.java</td>
+    <td>CombSortProcess.java</td>
     <td>Implementing CombSort Sort Process by Turkish alphabetical order</td>
   </tr>
   <tr>
